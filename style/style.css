@@ -52,7 +52,3 @@ section#social img:hover{
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.589);
     transition-duration: transform 0.3s,border 1s;
 }
-#social > a:hover{
-    
-    
-}
